@@ -10,21 +10,22 @@ Elige preferiblemente objetivos de aprendizaje que consideres esenciales o bloqu
 
 ----
 
-##### CSS
+#### CSS
     
 - [ ] Uso de selectores de CSS
 - [ ] Uso de flexbox de CSS
 
-##### JS
+#### JS
     
 - [ ] Promesas 
 
-##### Test
+#### Test
     
 - [ ] Test unitario
 - [ ] Test asíncrono
 - [ ] Librería de mock
 
+----
 
 #### Temática
     
@@ -32,9 +33,7 @@ Elige preferiblemente objetivos de aprendizaje que consideres esenciales o bloqu
     1. Describe las actividades que desarrollarás por cada objetivo
     2. Define una actividad final en la que puedas compartir tu conocimiento, puede ser la creación de un ejercicio para incluir en [el repositorio de entrenamiento](https://github.com/dapino/daily-js) o un *Lightning Talk* (5-10 minutos) para compartir el aprendizaje y/o ejercicios para practicar con tus compañeras.
 
-
 ----
-
 
 ## Actividades
 Durante la revisión de tu aprendizaje es importante que consolides ese conocimiento en algún lugar y en lo posible compartas el conocimiento que has adquirido, es importante que organices y hagas seguimiento de tus tareas, por esta razón te sugerimos organices las actividades, puede ser en una tabla como esta:
@@ -43,7 +42,7 @@ Durante la revisión de tu aprendizaje es importante que consolides ese conocimi
 | - | - | - | - | - | 
 | CSS | Promesas | Promesas| Test unitario| Test asíncrono | 
 | Estudiar contendios del LMS | Ver videos | Q&A Promesas | Otra actividad | Otra actividad | 
-| Hacer un ejercicio para el repo de entrenamiento | Hacer ejercicios | Hacer un ejercicio para el repo | Otra más | Otra más |
+| Hacer un ejercicio para el repo de entrenamiento | Hacer ejercicios | Hacer un ejercicio para el repo | Otra más | Hacer test de SN |
 
 
 ## Recursos
