@@ -38,11 +38,11 @@ Elige preferiblemente objetivos de aprendizaje que consideres esenciales o bloqu
 ## Actividades
 Durante la revisión de tu aprendizaje es importante que consolides ese conocimiento en algún lugar y en lo posible compartas el conocimiento que has adquirido, es importante que organices y hagas seguimiento de tus tareas, por esta razón te sugerimos organices las actividades, puede ser en una tabla como esta:
 
-| Día 1 | Día 2 | Día 3 |  Día 4 |  Día 5 | 
-| - | - | - | - | - | 
-| CSS | Promesas | Promesas| Test unitario| Test asíncrono | 
-| Estudiar contenidos del LMS | Ver videos | Q&A Promesas | Otra actividad | Otra actividad | 
-| Hacer un ejercicio para el repo de entrenamiento | Hacer ejercicios | Hacer un ejercicio para el repo | Otra más | Hacer test de SN |
+| Día 1 | Día 2 | Día 3 | Día 4 |
+| - | - | - | - | 
+| CSS | Promesas | Test unitario | Test asíncrono | 
+| Estudiar contenidos del LMS | Q&A Promesas | Intro a tes | Q&A Promesas |
+| Hacer un ejercicio para el repo de entrenamiento | Hacer ejercicios | Hacer un ejercicio para el repo | Hacer test de SN |
 
 
 ## Recursos
