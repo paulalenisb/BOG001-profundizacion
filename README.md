@@ -10,7 +10,20 @@ Elige preferiblemente objetivos de aprendizaje que consideres esenciales o bloqu
 
 ----
 
-> *Ejemplo de la estructura del listado de objetivos:*
+##### CSS
+    
+- [ ] Uso de selectores de CSS
+- [ ] Uso de flexbox de CSS
+
+##### JS
+    
+- [ ] Promesas 
+
+##### Test
+    
+- [ ] Test unitario
+- [ ] Test asíncrono
+- [ ] Librería de mock
 
 
 #### Temática
