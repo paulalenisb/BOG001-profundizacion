@@ -41,7 +41,7 @@ Durante la revisión de tu aprendizaje es importante que consolides ese conocimi
 | Día 1 | Día 2 | Día 3 |  Día 4 |  Día 5 | 
 | - | - | - | - | - | 
 | CSS | Promesas | Promesas| Test unitario| Test asíncrono | 
-| Estudiar contendios del LMS | Ver videos | Q&A Promesas | Otra actividad | Otra actividad | 
+| Estudiar contenidos del LMS | Ver videos | Q&A Promesas | Otra actividad | Otra actividad | 
 | Hacer un ejercicio para el repo de entrenamiento | Hacer ejercicios | Hacer un ejercicio para el repo | Otra más | Hacer test de SN |
 
 
