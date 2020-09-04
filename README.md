@@ -12,7 +12,7 @@ Elige preferiblemente objetivos de aprendizaje que consideres esenciales o bloqu
 
 #### CSS
     
-- [ ] Uso de selectores de CSS
+- [x] Uso de selectores de CSS
 - [ ] Uso de flexbox de CSS
 
 #### JS
