@@ -3,7 +3,7 @@
   - Leer conceptos en el LMS
   
 # Día 2
-- [ ] CSS:
+- [X] CSS:
   - Seguir leyendo conceptos de CSS
     - Selectores (Universal, de clase, de ID, de elemento)
     - Pseudoclases y pseudoelementos en MDN
