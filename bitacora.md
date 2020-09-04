@@ -5,6 +5,7 @@
 # Día 2
 - [ ] CSS:
   - Seguir leyendo conceptos de CSS
+    - Selectores (Universal, de clase, de ID, de elemento)
     - Pseudoclases y pseudoelementos en MDN
     - Cascada y herencia
   - Ejericio practico en [repl.it](https://repl.it/join/xzdnelqa-paulalenisb)
