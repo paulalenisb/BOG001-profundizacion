@@ -11,13 +11,14 @@
   - Ejercicio practico en [repl.it](https://repl.it/join/xzdnelqa-paulalenisb)
   
  # Día 3
-- [ ] CSS:
+- [x] CSS:
   - Conceptos MDN
     - Valores y unidades
     - Modelo de caja 
     - Display
+    - Ejercicio practico en [repl.it](https://repl.it/join/scrgdasc-paulalenisb)
   - Ejercicio para el repo
-- [ ] Promesas:
+- [x] Promesas:
    - Ejercicio en vivo con las chicas de SP y Dani
    
   # Día 4
