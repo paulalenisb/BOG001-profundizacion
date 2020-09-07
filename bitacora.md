@@ -29,9 +29,7 @@
   - Flexbox
   
 # Día 5
-- [ ] CSS:
-  - Ejercicio para el repo
 - [ ] Test:
-  - Ver vídeos de Lupo en el canal de youtube de Laboratorians developers
+  - Ejercicio en vivo con Lupe y las chicas de SP
 # Recursos
 - [Tutorial de diseño + CSS](https://frontendmasters.com/courses/design-for-developers/)
